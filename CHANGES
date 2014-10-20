@@ -1,0 +1,23 @@
+==================================================
+Changes from 2013-10-20 00:00:00 +0000 to present.
+==================================================
+
+-----------------------------------------
+version 0.10 at 2014-10-20 13:21:02 +0000
+-----------------------------------------
+
+  Change: b77aca8a948412c51e876ed08d0f58c5e58af070
+  Author: Rusty Conover <rusty@luckydinosaur.com>
+  Date : 2014-10-20 09:20:44 +0000
+
+    A few fixes and and add a test 
+
+  Change: 752816991985bde9b53c63e82d509a743a8359b0
+  Author: Rusty Conover <rusty@luckydinosaur.com>
+  Date : 2014-10-20 09:14:17 +0000
+
+    first commit 
+
+================
+End of releases.
+================
