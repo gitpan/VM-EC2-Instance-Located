@@ -3,8 +3,14 @@ Changes from 2013-10-20 00:00:00 +0000 to present.
 ==================================================
 
 -----------------------------------------
-version 0.10 at 2014-10-20 13:21:02 +0000
+version 0.12 at 2014-10-20 13:23:25 +0000
 -----------------------------------------
+
+  Change: 20ed2fbff4b28e870737769612463b3a8baf3217
+  Author: Rusty Conover <rusty@luckydinosaur.com>
+  Date : 2014-10-20 09:23:25 +0000
+
+    Fix a typo in the package name 
 
   Change: b77aca8a948412c51e876ed08d0f58c5e58af070
   Author: Rusty Conover <rusty@luckydinosaur.com>

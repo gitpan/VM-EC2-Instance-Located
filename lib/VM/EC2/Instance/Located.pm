@@ -1,5 +1,5 @@
 package VM::EC2::Instance::Located;
-$VM::EC2::Instance::Located::VERSION = '0.10';
+$VM::EC2::Instance::Located::VERSION = '0.13';
 # ABSTRACT: A quick check to determine if the currently running code is running on a AWS EC2 instance.
 
 use strict;
@@ -12,7 +12,7 @@ VM::EC2::Instance::Located - determine if code is executing on an EC2 instance
 
 =head1 SYNOPSIS
 
-  my $result = VM::EC2::Instanced::Located::at_ec2();
+  my $result = VM::EC2::Instance::Located::at_ec2();
   if($result) {
     print "Running at EC2\n";
   } else {
@@ -21,10 +21,11 @@ VM::EC2::Instance::Located - determine if code is executing on an EC2 instance
 
 =head1 DESCRIPTION
 
-Provides a function that determines if code is executing on an EC2 instance.
+Provides a function that determines if code is executing on an EC2
+instance.
 
-Currently implemented by resolving instnace-data.ec2.internal.  It will succeed
-on an ec2 instance and fail otherwise.
+Currently implemented by resolving instnace-data.ec2.internal.  It
+will succeed on an ec2 instance and fail otherwise.
 
 =cut
 

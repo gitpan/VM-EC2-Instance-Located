@@ -20,5 +20,6 @@ requires:
   warnings: '0'
 resources:
   bugtracker: https://github.com/rustyconover/vm-ec2-instance-located/issues
+  homepage: http://search.cpan.org/dist/VM-EC2-Instance-Located/
   repository: git://github.com/rustyconover/vm-ec2-instance-located.git
-version: '0.10'
+version: '0.13'

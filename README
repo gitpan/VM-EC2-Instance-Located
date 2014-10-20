@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution VM-EC2-Instance-Located,
-version 0.10:
+version 0.13:
 
   A quick check to determine if the currently running code is running on a AWS EC2 instance.
 
